@@ -1,1 +1,1 @@
-# colorDetectionUsingOpenCV
+# Color Detection Using OpenCV
